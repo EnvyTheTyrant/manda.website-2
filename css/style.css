@@ -5850,6 +5850,9 @@ header.simpl .caption .btn-curve {
 /* ====================== [ End Footer ] ====================== */
 /* ====================== [ Start Responsive ] ====================== */
 @media screen and (max-width: 991px) {
+  .cursor1 {
+    display: none;
+  }
   .bg-img {
     background-position: center !important;
   }
