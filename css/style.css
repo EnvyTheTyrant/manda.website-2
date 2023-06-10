@@ -6443,3 +6443,12 @@ header.simpl .caption .btn-curve {
 }
 
 /* ====================== [ End Responsive ] ====================== */
+
+/* Custom Classes by Manda */
+
+.disclaimer {
+  color: #ffffff44;
+  text-align: center;
+  translate: 0 50px;
+  font-size: 12px;
+}
